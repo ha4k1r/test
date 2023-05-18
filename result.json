@@ -1,0 +1,2262 @@
+{
+ "name": "милена",
+ "type": "personal_chat",
+ "id": 636102498,
+ "messages": [
+  {
+   "id": 692680,
+   "type": "message",
+   "date": "2022-09-22T08:14:01",
+   "date_unixtime": "1663823641",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "доброе утро",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "доброе утро"
+    }
+   ]
+  },
+  {
+   "id": 692681,
+   "type": "message",
+   "date": "2022-09-22T08:14:17",
+   "date_unixtime": "1663823657",
+   "from": "милена",
+   "from_id": "user636102498",
+   "reply_to_message_id": 692676,
+   "text": "треш и это до 22",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "треш и это до 22"
+    }
+   ]
+  },
+  {
+   "id": 692682,
+   "type": "message",
+   "date": "2022-09-22T08:14:57",
+   "date_unixtime": "1663823697",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "ого",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ого"
+    }
+   ]
+  },
+  {
+   "id": 692683,
+   "type": "message",
+   "date": "2022-09-22T08:14:59",
+   "date_unixtime": "1663823699",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "проснулся",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "проснулся"
+    }
+   ]
+  },
+  {
+   "id": 692684,
+   "type": "message",
+   "date": "2022-09-22T08:15:01",
+   "date_unixtime": "1663823701",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "наконец-то",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "наконец-то"
+    }
+   ]
+  },
+  {
+   "id": 692685,
+   "type": "message",
+   "date": "2022-09-22T08:15:21",
+   "date_unixtime": "1663823721",
+   "from": "¿",
+   "from_id": "user710966251",
+   "reply_to_message_id": 692680,
+   "text": "nur gehe ich loss und du schreibst mir",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "nur gehe ich loss und du schreibst mir"
+    }
+   ]
+  },
+  {
+   "id": 692686,
+   "type": "message",
+   "date": "2022-09-22T08:15:31",
+   "date_unixtime": "1663823731",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "ура",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ура"
+    }
+   ]
+  },
+  {
+   "id": 692687,
+   "type": "message",
+   "date": "2022-09-22T08:16:48",
+   "date_unixtime": "1663823808",
+   "from": "¿",
+   "from_id": "user710966251",
+   "reply_to_message_id": 692681,
+   "text": "entschuldigung",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "entschuldigung"
+    }
+   ]
+  },
+  {
+   "id": 692688,
+   "type": "message",
+   "date": "2022-09-22T08:17:06",
+   "date_unixtime": "1663823826",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "почти вместе лёгок",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "почти вместе лёгок"
+    }
+   ]
+  },
+  {
+   "id": 692689,
+   "type": "message",
+   "date": "2022-09-22T08:17:10",
+   "date_unixtime": "1663823830",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "легли",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "легли"
+    }
+   ]
+  },
+  {
+   "id": 692690,
+   "type": "message",
+   "date": "2022-09-22T08:17:15",
+   "date_unixtime": "1663823835",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "уверен ты тоже не сразу",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "уверен ты тоже не сразу"
+    }
+   ]
+  },
+  {
+   "id": 692691,
+   "type": "message",
+   "date": "2022-09-22T08:21:07",
+   "date_unixtime": "1663824067",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "ДОБРОЕ УТРО",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ДОБРОЕ УТРО"
+    }
+   ]
+  },
+  {
+   "id": 692692,
+   "type": "message",
+   "date": "2022-09-22T08:21:10",
+   "date_unixtime": "1663824070",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "КАК ДЕЛА",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "КАК ДЕЛА"
+    }
+   ]
+  },
+  {
+   "id": 692693,
+   "type": "message",
+   "date": "2022-09-22T08:22:21",
+   "date_unixtime": "1663824141",
+   "from": "милена",
+   "from_id": "user636102498",
+   "reply_to_message_id": 692690,
+   "text": "лол сразу",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "лол сразу"
+    }
+   ]
+  },
+  {
+   "id": 692694,
+   "type": "message",
+   "date": "2022-09-22T08:22:26",
+   "date_unixtime": "1663824146",
+   "from": "милена",
+   "from_id": "user636102498",
+   "reply_to_message_id": 692692,
+   "text": "хорошооо",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "хорошооо"
+    }
+   ]
+  },
+  {
+   "id": 692695,
+   "type": "message",
+   "date": "2022-09-22T08:22:28",
+   "date_unixtime": "1663824148",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "а у тебя",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "а у тебя"
+    }
+   ]
+  },
+  {
+   "id": 692696,
+   "type": "message",
+   "date": "2022-09-22T08:22:31",
+   "date_unixtime": "1663824151",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "сто снилось",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "сто снилось"
+    }
+   ]
+  },
+  {
+   "id": 692697,
+   "type": "message",
+   "date": "2022-09-22T08:22:47",
+   "date_unixtime": "1663824167",
+   "from": "¿",
+   "from_id": "user710966251",
+   "reply_to_message_id": 692693,
+   "text": "да не врешь",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "да не врешь"
+    }
+   ]
+  },
+  {
+   "id": 692698,
+   "type": "message",
+   "date": "2022-09-22T08:22:51",
+   "date_unixtime": "1663824171",
+   "from": "¿",
+   "from_id": "user710966251",
+   "reply_to_message_id": 692696,
+   "text": "хз",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "хз"
+    }
+   ]
+  },
+  {
+   "id": 692699,
+   "type": "message",
+   "date": "2022-09-22T08:22:56",
+   "date_unixtime": "1663824176",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "я целый чек лист",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "я целый чек лист"
+    }
+   ]
+  },
+  {
+   "id": 692700,
+   "type": "message",
+   "date": "2022-09-22T08:22:58",
+   "date_unixtime": "1663824178",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "сделал",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "сделал"
+    }
+   ]
+  },
+  {
+   "id": 692701,
+   "type": "message",
+   "date": "2022-09-22T08:22:58",
+   "date_unixtime": "1663824178",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "лол сразу",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "лол сразу"
+    }
+   ]
+  },
+  {
+   "id": 692702,
+   "type": "message",
+   "date": "2022-09-22T08:23:00",
+   "date_unixtime": "1663824180",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "ты че",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ты че"
+    }
+   ]
+  },
+  {
+   "id": 692703,
+   "type": "message",
+   "date": "2022-09-22T08:23:01",
+   "date_unixtime": "1663824181",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "чтобы не забыть",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "чтобы не забыть"
+    }
+   ]
+  },
+  {
+   "id": 692704,
+   "type": "message",
+   "date": "2022-09-22T08:23:03",
+   "date_unixtime": "1663824183",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "вау",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "вау"
+    }
+   ]
+  },
+  {
+   "id": 692705,
+   "type": "message",
+   "date": "2022-09-22T08:23:05",
+   "date_unixtime": "1663824185",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "какой",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "какой"
+    }
+   ]
+  },
+  {
+   "id": 692706,
+   "type": "message",
+   "date": "2022-09-22T08:23:06",
+   "date_unixtime": "1663824186",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "ща",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ща"
+    }
+   ]
+  },
+  {
+   "id": 692707,
+   "type": "message",
+   "date": "2022-09-22T08:23:22",
+   "date_unixtime": "1663824202",
+   "from": "¿",
+   "from_id": "user710966251",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 719,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 692708,
+   "type": "message",
+   "date": "2022-09-22T08:23:24",
+   "date_unixtime": "1663824204",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "нам надо в другом чате",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "нам надо в другом чате"
+    }
+   ]
+  },
+  {
+   "id": 692709,
+   "type": "message",
+   "date": "2022-09-22T08:23:26",
+   "date_unixtime": "1663824206",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "писать",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "писать"
+    }
+   ]
+  },
+  {
+   "id": 692710,
+   "type": "message",
+   "date": "2022-09-22T08:23:27",
+   "date_unixtime": "1663824207",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "да",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "да"
+    }
+   ]
+  },
+  {
+   "id": 692711,
+   "type": "message",
+   "date": "2022-09-22T08:23:51",
+   "date_unixtime": "1663824231",
+   "from": "милена",
+   "from_id": "user636102498",
+   "reply_to_message_id": 692707,
+   "text": "захахахахахахахха",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "захахахахахахахха"
+    }
+   ]
+  },
+  {
+   "id": 692712,
+   "type": "message",
+   "date": "2022-09-22T08:23:52",
+   "date_unixtime": "1663824232",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "вау",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "вау"
+    }
+   ]
+  },
+  {
+   "id": 692713,
+   "type": "message",
+   "date": "2022-09-22T08:23:53",
+   "date_unixtime": "1663824233",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "гений",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "гений"
+    }
+   ]
+  },
+  {
+   "id": 692714,
+   "type": "message",
+   "date": "2022-09-22T08:24:09",
+   "date_unixtime": "1663824249",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "в тот чат зацди",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "в тот чат зацди"
+    }
+   ]
+  },
+  {
+   "id": 692736,
+   "type": "service",
+   "date": "2022-09-22T16:06:02",
+   "date_unixtime": "1663851962",
+   "actor": "¿",
+   "actor_id": "user710966251",
+   "action": "phone_call",
+   "duration_seconds": 7216,
+   "discard_reason": "hangup",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 692737,
+   "type": "message",
+   "date": "2022-09-22T16:06:17",
+   "date_unixtime": "1663851977",
+   "from": "¿",
+   "from_id": "user710966251",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 719,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 692738,
+   "type": "message",
+   "date": "2022-09-22T16:08:51",
+   "date_unixtime": "1663852131",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "вот бы ещё аву на твою фотку и норм",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "вот бы ещё аву на твою фотку и норм"
+    }
+   ]
+  },
+  {
+   "id": 692739,
+   "type": "message",
+   "date": "2022-09-22T16:09:24",
+   "date_unixtime": "1663852164",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "ахахахах",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ахахахах"
+    }
+   ]
+  },
+  {
+   "id": 692740,
+   "type": "message",
+   "date": "2022-09-22T16:09:35",
+   "date_unixtime": "1663852175",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "сейчас идеально",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "сейчас идеально"
+    }
+   ]
+  },
+  {
+   "id": 692741,
+   "type": "message",
+   "date": "2022-09-22T17:31:49",
+   "date_unixtime": "1663857109",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "ты как????",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ты как????"
+    }
+   ]
+  },
+  {
+   "id": 692742,
+   "type": "message",
+   "date": "2022-09-22T17:31:53",
+   "date_unixtime": "1663857113",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "миленаа",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "миленаа"
+    }
+   ]
+  },
+  {
+   "id": 692743,
+   "type": "message",
+   "date": "2022-09-22T17:34:44",
+   "date_unixtime": "1663857284",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "хорошо",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "хорошо"
+    }
+   ]
+  },
+  {
+   "id": 692744,
+   "type": "message",
+   "date": "2022-09-22T17:34:50",
+   "date_unixtime": "1663857290",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "а ты как",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "а ты как"
+    }
+   ]
+  },
+  {
+   "id": 692745,
+   "type": "message",
+   "date": "2022-09-22T17:34:57",
+   "date_unixtime": "1663857297",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "что делаешь",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "что делаешь"
+    }
+   ]
+  },
+  {
+   "id": 692746,
+   "type": "message",
+   "date": "2022-09-22T17:35:04",
+   "date_unixtime": "1663857304",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "чего молчишь",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "чего молчишь"
+    }
+   ]
+  },
+  {
+   "id": 692747,
+   "type": "message",
+   "date": "2022-09-22T17:35:12",
+   "date_unixtime": "1663857312",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "учусь",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "учусь"
+    }
+   ]
+  },
+  {
+   "id": 692748,
+   "type": "message",
+   "date": "2022-09-22T17:35:21",
+   "date_unixtime": "1663857321",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "я тут думаю все треш",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "я тут думаю все треш"
+    }
+   ]
+  },
+  {
+   "id": 692749,
+   "type": "message",
+   "date": "2022-09-22T17:35:29",
+   "date_unixtime": "1663857329",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "давай в другой чат",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "давай в другой чат"
+    }
+   ]
+  },
+  {
+   "id": 692750,
+   "type": "message",
+   "date": "2022-09-22T17:35:30",
+   "date_unixtime": "1663857330",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "го",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "го"
+    }
+   ]
+  },
+  {
+   "id": 692764,
+   "type": "message",
+   "date": "2022-09-23T08:17:39",
+   "date_unixtime": "1663910259",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "доброе утроооо",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "доброе утроооо"
+    }
+   ]
+  },
+  {
+   "id": 692765,
+   "type": "message",
+   "date": "2022-09-23T08:17:49",
+   "date_unixtime": "1663910269",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "доброе утроо",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "доброе утроо"
+    }
+   ]
+  },
+  {
+   "id": 692766,
+   "type": "message",
+   "date": "2022-09-23T08:17:59",
+   "date_unixtime": "1663910279",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "все теперь можно туда",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "все теперь можно туда"
+    }
+   ]
+  },
+  {
+   "id": 692767,
+   "type": "message",
+   "date": "2022-09-23T08:18:07",
+   "date_unixtime": "1663910287",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "а у тебя наушники есть?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "а у тебя наушники есть?"
+    }
+   ]
+  },
+  {
+   "id": 692768,
+   "type": "message",
+   "date": "2022-09-23T08:18:11",
+   "date_unixtime": "1663910291",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "ты вышла из дома?",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ты вышла из дома?"
+    }
+   ]
+  },
+  {
+   "id": 692769,
+   "type": "message",
+   "date": "2022-09-23T08:18:19",
+   "date_unixtime": "1663910299",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "да",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "да"
+    }
+   ]
+  },
+  {
+   "id": 692770,
+   "type": "message",
+   "date": "2022-09-23T08:18:20",
+   "date_unixtime": "1663910300",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "да",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "да"
+    }
+   ]
+  },
+  {
+   "id": 692771,
+   "type": "message",
+   "date": "2022-09-23T08:18:22",
+   "date_unixtime": "1663910302",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "все есть",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "все есть"
+    }
+   ]
+  },
+  {
+   "id": 692772,
+   "type": "service",
+   "date": "2022-09-23T08:38:21",
+   "date_unixtime": "1663911501",
+   "actor": "¿",
+   "actor_id": "user710966251",
+   "action": "phone_call",
+   "duration_seconds": 1139,
+   "discard_reason": "disconnect",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 692773,
+   "type": "message",
+   "date": "2022-09-23T08:38:27",
+   "date_unixtime": "1663911507",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "треш",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "треш"
+    }
+   ]
+  },
+  {
+   "id": 692774,
+   "type": "service",
+   "date": "2022-09-23T08:55:57",
+   "date_unixtime": "1663912557",
+   "actor": "¿",
+   "actor_id": "user710966251",
+   "action": "phone_call",
+   "duration_seconds": 862,
+   "discard_reason": "hangup",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 692775,
+   "type": "message",
+   "date": "2022-09-23T09:55:51",
+   "date_unixtime": "1663916151",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "сориии",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "сориии"
+    }
+   ]
+  },
+  {
+   "id": 692776,
+   "type": "message",
+   "date": "2022-09-23T09:55:54",
+   "date_unixtime": "1663916154",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "у нас завуч зашёл",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "у нас завуч зашёл"
+    }
+   ]
+  },
+  {
+   "id": 692777,
+   "type": "message",
+   "date": "2022-09-23T09:55:56",
+   "date_unixtime": "1663916156",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "пизды бы дал",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "пизды бы дал"
+    }
+   ]
+  },
+  {
+   "id": 692778,
+   "type": "message",
+   "date": "2022-09-23T09:56:01",
+   "date_unixtime": "1663916161",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "началось кстати",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "началось кстати"
+    }
+   ]
+  },
+  {
+   "id": 692779,
+   "type": "message",
+   "date": "2022-09-23T09:56:04",
+   "date_unixtime": "1663916164",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "ты как",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ты как"
+    }
+   ]
+  },
+  {
+   "id": 692780,
+   "type": "message",
+   "date": "2022-09-23T10:41:39",
+   "date_unixtime": "1663918899",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "да нестрашно ты че",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "да нестрашно ты че"
+    }
+   ]
+  },
+  {
+   "id": 692781,
+   "type": "message",
+   "date": "2022-09-23T10:41:42",
+   "date_unixtime": "1663918902",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "все хорошо",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "все хорошо"
+    }
+   ]
+  },
+  {
+   "id": 692782,
+   "type": "message",
+   "date": "2022-09-23T10:41:45",
+   "date_unixtime": "1663918905",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "а ты как",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "а ты как"
+    }
+   ]
+  },
+  {
+   "id": 692783,
+   "type": "message",
+   "date": "2022-09-23T10:42:43",
+   "date_unixtime": "1663918963",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "го в другой чат",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "го в другой чат"
+    }
+   ]
+  },
+  {
+   "id": 692832,
+   "type": "service",
+   "date": "2022-09-23T16:10:21",
+   "date_unixtime": "1663938621",
+   "actor": "¿",
+   "actor_id": "user710966251",
+   "action": "phone_call",
+   "duration_seconds": 3697,
+   "discard_reason": "hangup",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 692833,
+   "type": "message",
+   "date": "2022-09-23T16:11:04",
+   "date_unixtime": "1663938664",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "знаешь что",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "знаешь что"
+    }
+   ]
+  },
+  {
+   "id": 692834,
+   "type": "message",
+   "date": "2022-09-23T16:11:07",
+   "date_unixtime": "1663938667",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "ха ха",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ха ха"
+    }
+   ]
+  },
+  {
+   "id": 692835,
+   "type": "message",
+   "date": "2022-09-23T16:11:10",
+   "date_unixtime": "1663938670",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "проблема",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "проблема"
+    }
+   ]
+  },
+  {
+   "id": 692836,
+   "type": "message",
+   "date": "2022-09-23T16:11:13",
+   "date_unixtime": "1663938673",
+   "from": "¿",
+   "from_id": "user710966251",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 719,
+   "height": 1280,
+   "text": "одна милена …",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "одна милена …"
+    }
+   ]
+  },
+  {
+   "id": 692837,
+   "type": "message",
+   "date": "2022-09-23T16:11:13",
+   "date_unixtime": "1663938673",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "огромная",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "огромная"
+    }
+   ]
+  },
+  {
+   "id": 692838,
+   "type": "message",
+   "date": "2022-09-23T16:11:18",
+   "date_unixtime": "1663938678",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "какая",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "какая"
+    }
+   ]
+  },
+  {
+   "id": 692839,
+   "type": "message",
+   "date": "2022-09-23T16:11:27",
+   "date_unixtime": "1663938687",
+   "from": "милена",
+   "from_id": "user636102498",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 719,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 692840,
+   "type": "message",
+   "date": "2022-09-23T16:11:27",
+   "date_unixtime": "1663938687",
+   "from": "милена",
+   "from_id": "user636102498",
+   "photo": "(File not included. Change data exporting settings to download.)",
+   "width": 719,
+   "height": 1280,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 692841,
+   "type": "message",
+   "date": "2022-09-23T16:11:30",
+   "date_unixtime": "1663938690",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "зарядка",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "зарядка"
+    }
+   ]
+  },
+  {
+   "id": 692842,
+   "type": "message",
+   "date": "2022-09-23T16:11:32",
+   "date_unixtime": "1663938692",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "дома",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "дома"
+    }
+   ]
+  },
+  {
+   "id": 692843,
+   "type": "message",
+   "date": "2022-09-23T16:11:39",
+   "date_unixtime": "1663938699",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "нет людей с айфонами",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "нет людей с айфонами"
+    }
+   ]
+  },
+  {
+   "id": 692844,
+   "type": "message",
+   "date": "2022-09-23T16:11:44",
+   "date_unixtime": "1663938704",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "ахахаха",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ахахаха"
+    }
+   ]
+  },
+  {
+   "id": 692845,
+   "type": "message",
+   "date": "2022-09-23T16:11:46",
+   "date_unixtime": "1663938706",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "не трать",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "не трать"
+    }
+   ]
+  },
+  {
+   "id": 692846,
+   "type": "message",
+   "date": "2022-09-23T16:11:53",
+   "date_unixtime": "1663938713",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "лол он и так",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "лол он и так"
+    }
+   ]
+  },
+  {
+   "id": 692847,
+   "type": "message",
+   "date": "2022-09-23T16:11:55",
+   "date_unixtime": "1663938715",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "выключится",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "выключится"
+    }
+   ]
+  },
+  {
+   "id": 692848,
+   "type": "message",
+   "date": "2022-09-23T16:11:56",
+   "date_unixtime": "1663938716",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "у девочки",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "у девочки"
+    }
+   ]
+  },
+  {
+   "id": 692849,
+   "type": "message",
+   "date": "2022-09-23T16:11:57",
+   "date_unixtime": "1663938717",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "попроси",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "попроси"
+    }
+   ]
+  },
+  {
+   "id": 692850,
+   "type": "message",
+   "date": "2022-09-23T16:12:01",
+   "date_unixtime": "1663938721",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "которая в тот раз",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "которая в тот раз"
+    }
+   ]
+  },
+  {
+   "id": 692851,
+   "type": "message",
+   "date": "2022-09-23T16:12:02",
+   "date_unixtime": "1663938722",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "может кто-то прийдет",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "может кто-то прийдет"
+    }
+   ]
+  },
+  {
+   "id": 692852,
+   "type": "message",
+   "date": "2022-09-23T16:12:04",
+   "date_unixtime": "1663938724",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "никого нет",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "никого нет"
+    }
+   ]
+  },
+  {
+   "id": 692853,
+   "type": "message",
+   "date": "2022-09-23T16:12:06",
+   "date_unixtime": "1663938726",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "пока что",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "пока что"
+    }
+   ]
+  },
+  {
+   "id": 692854,
+   "type": "message",
+   "date": "2022-09-23T16:12:09",
+   "date_unixtime": "1663938729",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "ну надеюсь",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ну надеюсь"
+    }
+   ]
+  },
+  {
+   "id": 692855,
+   "type": "message",
+   "date": "2022-09-23T16:12:24",
+   "date_unixtime": "1663938744",
+   "from": "¿",
+   "from_id": "user710966251",
+   "reply_to_message_id": 692848,
+   "text": ".",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "id": 692856,
+   "type": "message",
+   "date": "2022-09-23T16:13:03",
+   "date_unixtime": "1663938783",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "лол нет ее я же сказала",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "лол нет ее я же сказала"
+    }
+   ]
+  },
+  {
+   "id": 692857,
+   "type": "message",
+   "date": "2022-09-23T16:13:23",
+   "date_unixtime": "1663938803",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "треш",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "треш"
+    }
+   ]
+  },
+  {
+   "id": 692858,
+   "type": "message",
+   "date": "2022-09-23T16:13:30",
+   "date_unixtime": "1663938810",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "ладно",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ладно"
+    }
+   ]
+  },
+  {
+   "id": 692859,
+   "type": "message",
+   "date": "2022-09-23T16:13:36",
+   "date_unixtime": "1663938816",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "уверен найдёшь",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "уверен найдёшь"
+    }
+   ]
+  },
+  {
+   "id": 692860,
+   "type": "message",
+   "date": "2022-09-23T16:13:38",
+   "date_unixtime": "1663938818",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "выход",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "выход"
+    }
+   ]
+  },
+  {
+   "id": 692861,
+   "type": "message",
+   "date": "2022-09-23T16:13:43",
+   "date_unixtime": "1663938823",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "не то слово просто",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "не то слово просто"
+    }
+   ]
+  },
+  {
+   "id": 692862,
+   "type": "message",
+   "date": "2022-09-23T16:13:47",
+   "date_unixtime": "1663938827",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "это такой треш",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "это такой треш"
+    }
+   ]
+  },
+  {
+   "id": 692863,
+   "type": "message",
+   "date": "2022-09-23T16:14:12",
+   "date_unixtime": "1663938852",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "ничего и не из такого говна выбирались",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ничего и не из такого говна выбирались"
+    }
+   ]
+  },
+  {
+   "id": 692869,
+   "type": "message",
+   "date": "2022-09-23T17:38:05",
+   "date_unixtime": "1663943885",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "салют братский",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "салют братский"
+    }
+   ]
+  },
+  {
+   "id": 692870,
+   "type": "message",
+   "date": "2022-09-23T17:38:06",
+   "date_unixtime": "1663943886",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "как ты",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "как ты"
+    }
+   ]
+  },
+  {
+   "id": 692871,
+   "type": "message",
+   "date": "2022-09-23T17:38:24",
+   "date_unixtime": "1663943904",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "прекрасно",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "прекрасно"
+    }
+   ]
+  },
+  {
+   "id": 692872,
+   "type": "message",
+   "date": "2022-09-23T17:38:26",
+   "date_unixtime": "1663943906",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "а тыыыыыыы",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "а тыыыыыыы"
+    }
+   ]
+  },
+  {
+   "id": 692873,
+   "type": "message",
+   "date": "2022-09-23T17:38:26",
+   "date_unixtime": "1663943906",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "как",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "как"
+    }
+   ]
+  },
+  {
+   "id": 692874,
+   "type": "message",
+   "date": "2022-09-23T17:38:28",
+   "date_unixtime": "1663943908",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "го",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "го"
+    }
+   ]
+  },
+  {
+   "id": 692875,
+   "type": "message",
+   "date": "2022-09-23T17:38:33",
+   "date_unixtime": "1663943913",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "в тот чат",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "в тот чат"
+    }
+   ]
+  },
+  {
+   "id": 692876,
+   "type": "message",
+   "date": "2022-09-23T19:43:11",
+   "date_unixtime": "1663951391",
+   "from": "милена",
+   "from_id": "user636102498",
+   "forwarded_from": "¿",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "voice_message",
+   "mime_type": "audio/ogg",
+   "duration_seconds": 36,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 692877,
+   "type": "service",
+   "date": "2022-09-23T19:43:15",
+   "date_unixtime": "1663951395",
+   "actor": "милена",
+   "actor_id": "user636102498",
+   "action": "pin_message",
+   "message_id": 692876,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 692878,
+   "type": "message",
+   "date": "2022-09-23T19:43:19",
+   "date_unixtime": "1663951399",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "авыавыхавызх",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "авыавыхавызх"
+    }
+   ]
+  },
+  {
+   "id": 692879,
+   "type": "message",
+   "date": "2022-09-23T20:09:22",
+   "date_unixtime": "1663952962",
+   "from": "милена",
+   "from_id": "user636102498",
+   "forwarded_from": "¿",
+   "file": "(File not included. Change data exporting settings to download.)",
+   "media_type": "voice_message",
+   "mime_type": "audio/ogg",
+   "duration_seconds": 78,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 692880,
+   "type": "service",
+   "date": "2022-09-23T20:09:26",
+   "date_unixtime": "1663952966",
+   "actor": "милена",
+   "actor_id": "user636102498",
+   "action": "pin_message",
+   "message_id": 692879,
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 692881,
+   "type": "message",
+   "date": "2022-09-23T20:09:43",
+   "date_unixtime": "1663952983",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "любишь говно закреплять я вижу",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "любишь говно закреплять я вижу"
+    }
+   ]
+  },
+  {
+   "id": 692882,
+   "type": "message",
+   "date": "2022-09-23T20:09:44",
+   "date_unixtime": "1663952984",
+   "from": "милена",
+   "from_id": "user636102498",
+   "reply_to_message_id": 692876,
+   "text": "так красиво спел день",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "так красиво спел день"
+    }
+   ]
+  },
+  {
+   "id": 692883,
+   "type": "message",
+   "date": "2022-09-23T20:09:46",
+   "date_unixtime": "1663952986",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "капец",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "капец"
+    }
+   ]
+  },
+  {
+   "id": 692884,
+   "type": "message",
+   "date": "2022-09-23T20:09:49",
+   "date_unixtime": "1663952989",
+   "from": "милена",
+   "from_id": "user636102498",
+   "reply_to_message_id": 692881,
+   "text": "лол",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "лол"
+    }
+   ]
+  },
+  {
+   "id": 692885,
+   "type": "message",
+   "date": "2022-09-23T20:09:52",
+   "date_unixtime": "1663952992",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "рот",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "рот"
+    }
+   ]
+  },
+  {
+   "id": 692886,
+   "type": "message",
+   "date": "2022-09-23T20:09:56",
+   "date_unixtime": "1663952996",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "молчу",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "молчу"
+    }
+   ]
+  },
+  {
+   "id": 692930,
+   "type": "service",
+   "date": "2022-09-23T23:23:22",
+   "date_unixtime": "1663964602",
+   "actor": "¿",
+   "actor_id": "user710966251",
+   "action": "phone_call",
+   "duration_seconds": 2143,
+   "discard_reason": "hangup",
+   "text": "",
+   "text_entities": []
+  },
+  {
+   "id": 692931,
+   "type": "message",
+   "date": "2022-09-23T23:24:27",
+   "date_unixtime": "1663964667",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "прив тян",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "прив тян"
+    }
+   ]
+  },
+  {
+   "id": 692932,
+   "type": "message",
+   "date": "2022-09-23T23:24:36",
+   "date_unixtime": "1663964676",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "помурчи на ушк",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "помурчи на ушк"
+    }
+   ]
+  },
+  {
+   "id": 692933,
+   "type": "message",
+   "date": "2022-09-23T23:28:53",
+   "date_unixtime": "1663964933",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "бан",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "бан"
+    }
+   ]
+  },
+  {
+   "id": 692934,
+   "type": "message",
+   "date": "2022-09-23T23:29:25",
+   "date_unixtime": "1663964965",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "ок(",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ок("
+    }
+   ]
+  },
+  {
+   "id": 692935,
+   "type": "message",
+   "date": "2022-09-23T23:29:37",
+   "date_unixtime": "1663964977",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "лол кого тянкой назвал",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "лол кого тянкой назвал"
+    }
+   ]
+  },
+  {
+   "id": 692936,
+   "type": "message",
+   "date": "2022-09-23T23:29:43",
+   "date_unixtime": "1663964983",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "может вообще",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "может вообще"
+    }
+   ]
+  },
+  {
+   "id": 692937,
+   "type": "message",
+   "date": "2022-09-23T23:29:46",
+   "date_unixtime": "1663964986",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "я не знаю",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "я не знаю"
+    }
+   ]
+  },
+  {
+   "id": 692938,
+   "type": "message",
+   "date": "2022-09-23T23:30:14",
+   "date_unixtime": "1663965014",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "что",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "что"
+    }
+   ]
+  },
+  {
+   "id": 692939,
+   "type": "message",
+   "date": "2022-09-23T23:30:20",
+   "date_unixtime": "1663965020",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "радуйся",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "радуйся"
+    }
+   ]
+  },
+  {
+   "id": 692940,
+   "type": "message",
+   "date": "2022-09-23T23:30:22",
+   "date_unixtime": "1663965022",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "что вообще",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "что вообще"
+    }
+   ]
+  },
+  {
+   "id": 692941,
+   "type": "message",
+   "date": "2022-09-23T23:30:25",
+   "date_unixtime": "1663965025",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "называю",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "называю"
+    }
+   ]
+  },
+  {
+   "id": 692942,
+   "type": "message",
+   "date": "2022-09-23T23:30:26",
+   "date_unixtime": "1663965026",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "как-то",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "как-то"
+    }
+   ]
+  },
+  {
+   "id": 692943,
+   "type": "message",
+   "date": "2022-09-23T23:32:22",
+   "date_unixtime": "1663965142",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "лол",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "лол"
+    }
+   ]
+  },
+  {
+   "id": 692944,
+   "type": "message",
+   "date": "2022-09-23T23:32:25",
+   "date_unixtime": "1663965145",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "👍👍👍",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "👍👍👍"
+    }
+   ]
+  },
+  {
+   "id": 692945,
+   "type": "message",
+   "date": "2022-09-23T23:32:27",
+   "date_unixtime": "1663965147",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "🥇🥇🥇🥇",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🥇🥇🥇🥇"
+    }
+   ]
+  },
+  {
+   "id": 692946,
+   "type": "message",
+   "date": "2022-09-23T23:32:28",
+   "date_unixtime": "1663965148",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "🙏🏻🙏🏻🙏🏻🙏🏻",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🙏🏻🙏🏻🙏🏻🙏🏻"
+    }
+   ]
+  },
+  {
+   "id": 692947,
+   "type": "message",
+   "date": "2022-09-23T23:32:35",
+   "date_unixtime": "1663965155",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "🙏🏿👍🏿",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "🙏🏿👍🏿"
+    }
+   ]
+  },
+  {
+   "id": 692948,
+   "type": "message",
+   "date": "2022-09-23T23:33:37",
+   "date_unixtime": "1663965217",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "ок",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "ок"
+    }
+   ]
+  },
+  {
+   "id": 692949,
+   "type": "message",
+   "date": "2022-09-23T23:34:35",
+   "date_unixtime": "1663965275",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "блог",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "блог"
+    }
+   ]
+  },
+  {
+   "id": 692950,
+   "type": "message",
+   "date": "2022-09-23T23:34:37",
+   "date_unixtime": "1663965277",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "жду",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "жду"
+    }
+   ]
+  },
+  {
+   "id": 692951,
+   "type": "message",
+   "date": "2022-09-23T23:34:50",
+   "date_unixtime": "1663965290",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "какой блог бро",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "какой блог бро"
+    }
+   ]
+  },
+  {
+   "id": 692952,
+   "type": "message",
+   "date": "2022-09-23T23:34:52",
+   "date_unixtime": "1663965292",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "моя моральная компенсация",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "моя моральная компенсация"
+    }
+   ]
+  },
+  {
+   "id": 692953,
+   "type": "message",
+   "date": "2022-09-23T23:34:56",
+   "date_unixtime": "1663965296",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "твойййй",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "твойййй"
+    }
+   ]
+  },
+  {
+   "id": 692954,
+   "type": "message",
+   "date": "2022-09-23T23:35:17",
+   "date_unixtime": "1663965317",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "за что бро",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "за что бро"
+    }
+   ]
+  },
+  {
+   "id": 692955,
+   "type": "message",
+   "date": "2022-09-23T23:35:20",
+   "date_unixtime": "1663965320",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "компенсация",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "компенсация"
+    }
+   ]
+  },
+  {
+   "id": 692956,
+   "type": "message",
+   "date": "2022-09-23T23:35:27",
+   "date_unixtime": "1663965327",
+   "from": "¿",
+   "from_id": "user710966251",
+   "text": "скажи сколько смсок лучше и вернись в другой чат",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "скажи сколько смсок лучше и вернись в другой чат"
+    }
+   ]
+  },
+  {
+   "id": 692957,
+   "type": "message",
+   "date": "2022-09-23T23:35:29",
+   "date_unixtime": "1663965329",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "зухахахахаххаха",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "зухахахахаххаха"
+    }
+   ]
+  },
+  {
+   "id": 692958,
+   "type": "message",
+   "date": "2022-09-23T23:35:36",
+   "date_unixtime": "1663965336",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "лол снова",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "лол снова"
+    }
+   ]
+  },
+  {
+   "id": 692959,
+   "type": "message",
+   "date": "2022-09-23T23:35:39",
+   "date_unixtime": "1663965339",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "почистить надо",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "почистить надо"
+    }
+   ]
+  },
+  {
+   "id": 692960,
+   "type": "message",
+   "date": "2022-09-23T23:35:40",
+   "date_unixtime": "1663965340",
+   "from": "милена",
+   "from_id": "user636102498",
+   "text": "треш",
+   "text_entities": [
+    {
+     "type": "plain",
+     "text": "треш"
+    }
+   ]
+  }
+ ]
+}
